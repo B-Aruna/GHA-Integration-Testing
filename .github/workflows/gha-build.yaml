@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 env:
     artifact_name: "MyTestApp"
-    artifact_version: 7.0.0
+    artifact_version: 8.0.0
 
 jobs:
   build:
