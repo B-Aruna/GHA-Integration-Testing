@@ -18,7 +18,7 @@
         "name": "TestSkip",
         "status": "skipped",
         "duration": 0,
-        "suite": "Test Suite1"
+        "suite": "Test Suite2"
       },
       {
         "name": "TestAdd/ADD_Success",
