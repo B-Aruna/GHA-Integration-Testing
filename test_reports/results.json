@@ -30,7 +30,7 @@
         "name": "TestAdd/ADD_Failure",
         "status": "passed",
         "duration": 0.05,
-        "suite": "Test Suite1"
+        "suite": "Test Suite2"
       },
       {
         "name": "TestAdd",
